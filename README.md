@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Stark-X/Stark-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.stark-x.vercel.app/api/top-langs/?username=Stark-X&hide=html,vim%20script" />
+</a>
+- 🔭 I’m currently working on [ThoughtWorks](https://www.thoughtworks.com/)
+- 🌱 I’m currently learning `Kubernetes`, `Serverless`, `Spring`, `Cloud Native`
+- 💬 Ask me about `DevOps`, `Shell`, `Python`
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.stark-x.vercel.app/api?username=Stark-X&count_private=true&show_icons=true&theme=solarized-light" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.stark-x.vercel.app/api/wakatime?username=Stark_X&theme=solarized-light" />
+</a>
+
