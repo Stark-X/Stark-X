@@ -8,6 +8,6 @@
   <img align="right" src="https://github-readme-stats.stark-x.vercel.app/api/wakatime?username=Stark_X&theme=solarized-light" />
 </a>
 
-- 🔭 I’m currently working on [ThoughtWorks](https://www.thoughtworks.com/)
-- 🌱 I’m currently learning `Kubernetes`, `Serverless`, `Spring`, `Cloud Native`
+- 🔭 I’m currently working on [ZATI](https://za.group/hk)
+- 🌱 I’m currently learning `Kubernetes`, `Serverless`, `Django`, `Cloud Native`
 - 💬 Ask me about `DevOps`, `Shell`, `Python`
